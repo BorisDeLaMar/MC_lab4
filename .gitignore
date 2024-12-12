@@ -1,0 +1,13 @@
+.*
+
+!.gitignore
+
+lab4/.*
+lab4/Debug
+lab4/Drivers
+lab4/*.ld
+lab4/*.launch
+lab4/Core/Startup
+.autosave
+
+lab5_again
